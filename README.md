@@ -1,11 +1,14 @@
-# Awasome EsoAsm
-List of awesome esoteric assembler languages.
+# Awasome esoteric code generators
+List of awesome esoteric code generators.
 
 ## Contents
-* [Assembler Language for one esoteric language](#assembler-language-for-one-esoteric-language)
-* [Assembler Language for many esoteric languages](#assembler-language-for-many-esoteric-languages)
+* [Simple Assemblers](#single-assemblers)
+* [Multi Assemblers](#miltiple-assemblers)
+* [Esoteric C](#esoteric-c)
+* [Esoteric Lisp](#ssoteric-lisp)
+* [Others](#others)
 
-## Assembler Language for one esoteric language
+## Single Assemblers
 * [asm2BF](https://esolangs.org/wiki/Asm2bf)
 * [asm2WS](https://github.com/kspalaiologos/asm2ws)
 * [BitBitJump](https://github.com/esovm/BitBitJump)
@@ -22,5 +25,11 @@ List of awesome esoteric assembler languages.
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa))
   
-## Assembler Language for many esoteric languages
+## Miltiple Assemblers
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
+
+## Esoteric C
+
+## Esoteric Lisp
+
+## Others
