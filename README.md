@@ -2,8 +2,8 @@
 List of awesome esoteric assembler languages.
 
 ## Contents
-* [Assembler Language for one esoteric language](#one)
-* [Assembler Language for many esoteric languages](#many)
+* [Assembler Language for one esoteric language](#assembler-language-for-one-esoteric-language)
+* [Assembler Language for many esoteric languages](#assembler-language-for-many-esoteric-languages)
 
 ## Assembler Language for one esoteric language
 * [asm2BF](https://esolangs.org/wiki/Asm2bf)
