@@ -29,6 +29,7 @@ List of awesome esoteric code generators.
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric C
+* [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric Lisp
 
