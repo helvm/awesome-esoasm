@@ -1,6 +1,7 @@
 # Awasome EsoAsm
 List of awesome esoteric assembler languages.
 
+For One esoteric language:
 * BrainFuck Assembler Language
   * [asm2BF](https://esolangs.org/wiki/Asm2bf)
   * [FBF](http://www.inshame.com/search/label/My%20Progs%3A%20FuckBrainfuck) ([code backup](https://github.com/esovm/FuckBrainFuck))
@@ -20,4 +21,6 @@ List of awesome esoteric assembler languages.
 * [WhiteSpace](https://helvm.github.io/wspace/tutorial.html) Assembler Language
   * [asm2WS](https://github.com/kspalaiologos/asm2ws)
   * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa))
-
+  
+  For meny languages:
+  * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
