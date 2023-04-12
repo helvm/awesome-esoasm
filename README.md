@@ -13,6 +13,7 @@ List of awesome esoteric code generators.
 * [BitBitJump](https://github.com/esovm/BitBitJump)
 * [EAS](http://www.miketaylor.org.uk/tech/eta/doc/easman.html) - The ETA Assembler
 * [eigenratios](http://eigenratios.blogspot.com/2006/09/mark-ii-oisc-self-interpreter.html) - Assembler language for SubLeq
+* [FlipJump](https://github.com/tomhea/flip-jump) - Assembler language for FlipJump
 * [FuckBrainFuck](https://github.com/esovm/FuckBrainFuck) - Assembler language for BrainFuck
 * [HAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/hal/hal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/ternary)) - High level assembly language for Malbolge
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
