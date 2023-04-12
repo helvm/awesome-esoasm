@@ -24,7 +24,7 @@ List of awesome esoteric code generators.
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa)) - Assembler language for WhiteSpace
   
-## Esoteric C
+## Esoteric C compilers
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric Lisp
