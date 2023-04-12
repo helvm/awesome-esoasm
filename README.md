@@ -26,6 +26,7 @@ List of awesome esoteric code generators.
   
 ## Esoteric C compilers
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
+* [Piet C](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
 
 ## Esoteric Lisp
 * [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
