@@ -25,7 +25,7 @@ List of awesome esoteric code generators.
 * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa)) - Assembler language for WhiteSpace
   
 ## Esoteric C compilers
-* [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
+* [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 
 ## Esoteric Lisp
 * [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
