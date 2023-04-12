@@ -28,8 +28,9 @@ List of awesome esoteric code generators.
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric Lisp
-* [BefLisp](https://github.com/shinh/beflisp) - Lisp for BeFunge
-* [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp)
+* [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
+* [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
+* [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - Scheme to Befunge compiler
 * Unlambda Scheme
 
 ## Others
