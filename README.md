@@ -20,7 +20,7 @@ List of awesome esoteric code generators.
 * [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO))
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) 
 * [Piet Assembler Language](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) ([code backup](https://github.com/helvm/Piet))
-* [sblasm](https://techtinkering.com/articles/subleq-a-one-instruction-set-computer/) ([code](https://github.com/lawrencewoodman/sblasm)) - Assembler language for SubLeq
+* [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa)) - Assembler language for WhiteSpace
   
