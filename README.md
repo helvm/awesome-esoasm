@@ -14,10 +14,10 @@ List of awesome esoteric code generators.
 * [EAS](http://www.miketaylor.org.uk/tech/eta/doc/easman.html) - The ETA Assembler
 * [eigenratios](http://eigenratios.blogspot.com/2006/09/mark-ii-oisc-self-interpreter.html) - Assembler language for SubLeq
 * [FuckBrainFuck](https://github.com/esovm/FuckBrainFuck) - Assembler language for BrainFuck
-* [HAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/hal/hal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/ternary))
-* [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO))
-* [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO))
-* [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) 
+* [HAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/hal/hal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/ternary)) - High level assembly language for Malbolge
+* [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
+* [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO)) - Malbolge Assembler
+* [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO)) - Malbolge Unshackled Assembler
 * [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
 * [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 * [Toga](https://github.com/esovm/toga)
