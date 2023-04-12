@@ -35,4 +35,5 @@ List of awesome esoteric code generators.
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
 ## Others
- * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator:
+ * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
+ * [BrainFuck to Piet compiler](http://mamememo.blogspot.com/2009/10/piet-is-turing-complete.html)
