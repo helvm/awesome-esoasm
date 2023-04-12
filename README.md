@@ -3,7 +3,7 @@ List of awesome esoteric code generators.
 
 ## Contents
 * [Assemblers](#assemblers)
-* [Esoteric C](#esoteric-c)
+* [Esoteric C](#esoteric-c-compiler)
 * [Esoteric Lisp](#ssoteric-lisp)
 * [Others](#others)
 
