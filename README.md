@@ -2,13 +2,12 @@
 List of awesome esoteric code generators.
 
 ## Contents
-* [Simple Assemblers](#single-assemblers)
-* [Multi Assemblers](#miltiple-assemblers)
+* [Assemblers](#assemblers)
 * [Esoteric C](#esoteric-c)
 * [Esoteric Lisp](#ssoteric-lisp)
 * [Others](#others)
 
-## Single Assemblers
+## Assemblers
 * [asm2BF](https://esolangs.org/wiki/Asm2bf) - Assembler language for BrainfFuck
 * [asm2WS](https://github.com/kspalaiologos/asm2ws) - Assembler language for WhiteSpace
 * [BitBitJump](https://github.com/esovm/BitBitJump)
@@ -25,12 +24,10 @@ List of awesome esoteric code generators.
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://helvm.github.io/wsa/intro.html) ([code backup](https://github.com/helvm/wsa)) - Assembler language for WhiteSpace
   
-## Miltiple Assemblers
-* [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
-
 ## Esoteric C
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric Lisp
+* lisp for 
 
 ## Others
