@@ -28,7 +28,7 @@ List of awesome esoteric code generators.
 * [ELVM](https://github.com/shinh/elvm/blob/master/ELVM.md)
 
 ## Esoteric Lisp
-* Funge Scheme
+* [BefLisp](https://github.com/shinh/beflisp) - Lisp for BeFunge
 * [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp)
 * Unlambda Scheme
 
