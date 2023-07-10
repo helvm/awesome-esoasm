@@ -39,3 +39,5 @@ List of awesome esoteric code generators.
  * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
  * [BrainFuck to Piet compiler](http://mamememo.blogspot.com/2009/10/piet-is-turing-complete.html)
  * [BefunGen](http://www.mikescher.de/programs/view/BefunGen) - A Befunge compiler / code generator, compiles to Befunge code from a c-like language
+ * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language
+
