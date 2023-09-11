@@ -29,7 +29,13 @@ List of awesome esoteric code generators.
 * [BFBASIC](https://esolangs.org/wiki/BFBASIC) - BFBASIC is a Basic to Brainfuck compiler
 * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
 
-## Assemblers
+## Esoteric Assemblers
+
+### Macro Assemblers
+* [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
+* [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
+
+### Other Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
 * [asm2WS](https://github.com/kspalaiologos/asm2ws) - alpha-grade whitespace toolchain
 * [BitBitJump](https://github.com/esovm/BitBitJump)
@@ -41,8 +47,6 @@ List of awesome esoteric code generators.
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
 * [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO)) - Malbolge Assembler
 * [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO)) - Malbolge Unshackled Assembler
-* [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
-* [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://github.com/helvm/wsa) - Whitespace Assembler
 
