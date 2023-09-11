@@ -58,6 +58,7 @@ List of awesome esoteric code generators.
 * [eigenratios](http://eigenratios.blogspot.com/2006/09/mark-ii-oisc-self-interpreter.html) - Assembler language for SubLeq
 * [FuckBrainFuck](https://github.com/esovm/FuckBrainFuck) - Assembler language for BrainFuck
 * [HAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/hal/hal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/ternary)) - High level assembly language for Malbolge
+* [LambdaVM](https://github.com/woodrush/lambdavm) - `Using LambdaVM, you can write lambda calculus programs in assembly style.`
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
 * [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO)) - Malbolge Assembler
 * [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO)) - Malbolge Unshackled Assembler
@@ -71,5 +72,4 @@ List of awesome esoteric code generators.
 * [bflisp](https://github.com/shinh/bflisp) - Lisp interpreter in Brainfuck
 * [LambdaLisp ](https://github.com/woodrush/lambdalisp) - a Lisp interpreter written as an untyped lambda calculus term
 * [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
-
 
