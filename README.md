@@ -4,7 +4,7 @@ List of awesome esoteric code generators.
 ## Contents
 * [High level Language](high-level-languages)
   * [Esoteric Haskell compilers](#esoteric-haskell-compilers)
-  * [Esoteric scheme compilers](#esoteric-scheme-compilers)
+  * [Esoteric Scheme compilers](#esoteric-scheme-compilers)
   * [Esoteric C compilers](#esoteric-c-compilers)
   * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
   * [Other languages](#other-languages)
@@ -26,6 +26,7 @@ List of awesome esoteric code generators.
 ### Esoteric C compilers
 * [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
+* [lambda-8cc](https://github.com/woodrush/lambda-8cc)
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
 * [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
 * [SpaceBar](https://github.com/progbits/spacebar/) - A C to Whitespace transpiler.
@@ -43,12 +44,12 @@ List of awesome esoteric code generators.
 
 ## Esoteric Assemblers
 
-### Macro Assemblers
+### Esoteric Macro Assemblers
 * [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 * [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
 * [FlipJump](https://github.com/tomhea/flip-jump) - Assembler language for FlipJump
 
-### Other Assemblers
+### Other Esoteric Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
 * [asm2WS](https://github.com/kspalaiologos/asm2ws) - alpha-grade whitespace toolchain
 * [BFFuck](https://esolangs.org/wiki/BFFuck) - BFFuck is a high-level language that compiles to brainfuck
@@ -68,6 +69,7 @@ List of awesome esoteric code generators.
 ## Esoteric Lisp interpreters
 * [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
 * [bflisp](https://github.com/shinh/bflisp) - Lisp interpreter in Brainfuck
+* [LambdaLisp ](https://github.com/woodrush/lambdalisp) - a Lisp interpreter written as an untyped lambda calculus term
 * [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 
 
