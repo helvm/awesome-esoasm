@@ -7,7 +7,9 @@ List of awesome esoteric code generators.
   * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
   * [Esoteric scheme compilers](#esoteric-scheme-compilers)
   * [Other languages](#other-languages)
-* [Assemblers](#assemblers)
+* [Esoteric Assemblers](#esoteric-assemblers)
+  * [Macro Assemblers](macro-assemblers) 
+  * [Other Assemblers](other-assemblers) 
 * [Lisp interpreters](lisp-interpreters) 
 
 ## High level languages
