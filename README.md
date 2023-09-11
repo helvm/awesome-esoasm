@@ -3,9 +3,11 @@ List of awesome esoteric code generators.
 
 ## Contents
 * [Assemblers](#assemblers)
-* [Esoteric C compilers](#esoteric-c-compilers)
-* [Esoteric Lisp](#ssoteric-lisp)
-* [Others](#others)
+* High level Language
+  * [Esoteric Lisp](#ssoteric-lisp)
+  * [Esoteric C compilers](#esoteric-c-compilers)
+  * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
+  * [Others](#others)
 
 ## Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
@@ -23,21 +25,25 @@ List of awesome esoteric code generators.
 * [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://github.com/helvm/wsa) - Whitespace Assembler
-  
-## Esoteric C compilers
-* [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
-* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
 
-## Esoteric Lisp
+## High level languages
+
+### Esoteric Lisp
 * [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
 * [bflisp](https://github.com/shinh/bflisp) - Lisp interpreter in Brainfuck
 * [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
-## Others
+### Esoteric C compilers
+* [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
+* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+
+### Esoteric Pascal compilers
  * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
- * [BrainFuck to Piet compiler](http://mamememo.blogspot.com/2009/10/piet-is-turing-complete.html)
- * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a c-like language
- * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language
+ * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
+
+### Other languages
+ * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
+
 
