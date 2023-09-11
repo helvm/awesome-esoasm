@@ -41,6 +41,7 @@ List of awesome esoteric code generators.
 ### Other Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
 * [asm2WS](https://github.com/kspalaiologos/asm2ws) - alpha-grade whitespace toolchain
+* [BFFuck](https://esolangs.org/wiki/BFFuck) - BFFuck is a high-level language that compiles to brainfuck
 * [BitBitJump](https://github.com/esovm/BitBitJump)
 * [EAS](http://www.miketaylor.org.uk/tech/eta/doc/easman.html) - The ETA Assembler
 * [eigenratios](http://eigenratios.blogspot.com/2006/09/mark-ii-oisc-self-interpreter.html) - Assembler language for SubLeq
