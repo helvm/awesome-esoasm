@@ -27,6 +27,7 @@ List of awesome esoteric code generators.
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
 * [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+* [SpaceBar](https://github.com/progbits/spacebar/) - A C to Whitespace transpiler.
 * [whitespace_compiler](https://github.com/malkiewiczm/whitespace_compiler) - A compiler (or a transpiler) from a C like language to whitespace
 
 ### Esoteric Pascal compilers
@@ -58,10 +59,10 @@ List of awesome esoteric code generators.
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
 * [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO)) - Malbolge Assembler
 * [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO)) - Malbolge Unshackled Assembler
-* [Spitewaste](https://github.com/collidedscope/spitewaste) - the pseudo-assembly language
+* [SpiteWaste](https://github.com/collidedscope/spitewaste) - the pseudo-assembly language
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://github.com/helvm/wsa) - Whitespace Assembler
-* [whitespace-language-converter](https://github.com/drafear/whitespace-language-converter) - Provide a converter from our language to whitespace
+* [WhiteSpace language converter](https://github.com/drafear/whitespace-language-converter) - Provide a converter from our language to whitespace
 
 ## Esoteric Lisp interpreters
 * [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
