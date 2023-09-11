@@ -4,10 +4,10 @@ List of awesome esoteric code generators.
 ## Contents
 * [Assemblers](#assemblers)
 * High level Language
-  * [Esoteric Lisp](#ssoteric-lisp)
+  * [Esoteric Lisp](#esoteric-lisp)
   * [Esoteric C compilers](#esoteric-c-compilers)
   * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
-  * [Others](#others)
+  * [Other languages](#other-languages)
 
 ## Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
