@@ -1,4 +1,4 @@
-# Awasome esoteric code generators
+# Awesome esoteric code generators
 List of awesome esoteric code generators.
 
 ## Contents
@@ -23,6 +23,10 @@ List of awesome esoteric code generators.
 ### Esoteric Scheme compilers
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
+
+### Other functional compiler
+* Lazier
+* LambdaCraft
 
 ### Esoteric Subset C compilers
 * [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
