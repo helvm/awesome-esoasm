@@ -18,12 +18,6 @@ List of awesome esoteric code generators.
 * [hs2bf](https://www.xanxys.net/hs2bf/) - hs2bf is a haskell to brainfuck compiler.
 * [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
 
-### Esoteric C compilers
-* [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
-* [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
-* [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
-* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
-
 ### Esoteric Pascal compilers
  * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
  * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
@@ -32,10 +26,17 @@ List of awesome esoteric code generators.
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
+### Esoteric C compilers
+* [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
+* [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
+* [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
+* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+
 ### Other languages
 * [BFBASIC](https://esolangs.org/wiki/BFBASIC) - BFBASIC is a Basic to Brainfuck compiler
 * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
 * [NoSpace](https://github.com/buyoh/nospace/) - compiler: compile original lang to whitespace
+* [White Space Compiler](https://github.com/jgkaplan/whitespaceTranspiler/) - Transpile from a simple language to whitespace
 
 ## Esoteric Assemblers
 
