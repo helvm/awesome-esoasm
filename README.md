@@ -19,6 +19,7 @@ List of awesome esoteric code generators.
 * [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
 
 ### Esoteric C compilers
+* [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
 * [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
