@@ -35,6 +35,7 @@ List of awesome esoteric code generators.
 ### Other languages
 * [BFBASIC](https://esolangs.org/wiki/BFBASIC) - BFBASIC is a Basic to Brainfuck compiler
 * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
+* [NoSpace](https://github.com/buyoh/nospace/) - compiler: compile original lang to whitespace
 
 ## Esoteric Assemblers
 
