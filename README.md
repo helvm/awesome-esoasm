@@ -5,8 +5,8 @@ List of awesome esoteric code generators.
 * [High level Language](high-level-languages)
   * [Esoteric Haskell compilers](#esoteric-haskell-compilers)
   * [Esoteric Scheme compilers](#esoteric-scheme-compilers)
-  * [Esoteric C compilers](#esoteric-c-compilers)
-  * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
+  * [Esoteric Subset C compilers](#esoteric-subset-c-compilers)
+  * [Esoteric C-like compilers](#esoteric-c-like-compilers)
   * [Other languages](#other-languages)
 * [Esoteric Assemblers](#esoteric-assemblers)
   * [Macro Assemblers](macro-assemblers) 
@@ -16,30 +16,33 @@ List of awesome esoteric code generators.
 ## High level languages
 
 ### Esoteric Haskell compilers
-* [hs2bf](https://www.xanxys.net/hs2bf/) - hs2bf is a haskell to brainfuck compiler.
+* [hs2bf](https://www.xanxys.net/hs2bf/) - a Haskell to BrainFuck compiler.
 * [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
+* [](https://crypto.stanford.edu/~blynn/compiler/) - Haskell to combinators compiler
 
 ### Esoteric Scheme compilers
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
-### Esoteric C compilers
+### Esoteric Subset C compilers
 * [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
-* [lambda-8cc](https://github.com/woodrush/lambda-8cc)
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
-* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+* [lambda-8cc](https://github.com/woodrush/lambda-8cc)
 * [SpaceBar](https://github.com/progbits/spacebar/) - A C to Whitespace transpiler.
-* [whitespace_compiler](https://github.com/malkiewiczm/whitespace_compiler) - A compiler (or a transpiler) from a C like language to whitespace
+
+### Esoteric C-like compilers
+* [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a c-like language
+* [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+* [whitespace_compiler](https://github.com/malkiewiczm/whitespace_compiler) - A compiler (or a transpiler) from a C-like language to whitespace
 
 ### Esoteric Pascal compilers
- * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
- * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
 
 ### Other languages
 * [BFBASIC](https://esolangs.org/wiki/BFBASIC) - BFBASIC is a Basic to Brainfuck compiler
 * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
 * [NoSpace](https://github.com/buyoh/nospace/) - compiler: compile original lang to whitespace
+* [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
 * [White Space Compiler](https://github.com/jgkaplan/whitespaceTranspiler/) - Transpile from a simple language to whitespace
 
 ## Esoteric Assemblers
