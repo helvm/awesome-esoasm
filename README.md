@@ -58,6 +58,7 @@ List of awesome esoteric code generators.
 * [LAL](https://www.trs.cm.is.nagoya-u.ac.jp/projects/Malbolge/lal/lal-def.html.en) ([code](https://git.trs.css.i.nagoya-u.ac.jp/malbolge/lowass)) - Low-level assembly language for Malbolge
 * [LMAO](https://lutter.cc/malbolge/assembler.html) ([code](https://github.com/esoteric-programmer/LMAO)) - Malbolge Assembler
 * [LMFAO](https://lutter.cc/unshackled/assembler.html) ([code](https://github.com/esoteric-programmer/LMFAO)) - Malbolge Unshackled Assembler
+* [Spitewaste](https://github.com/collidedscope/spitewaste) - the pseudo-assembly language
 * [Toga](https://github.com/esovm/toga)
 * [WSA](https://github.com/helvm/wsa) - Whitespace Assembler
 * [whitespace-language-converter](https://github.com/drafear/whitespace-language-converter) - Provide a converter from our language to whitespace
