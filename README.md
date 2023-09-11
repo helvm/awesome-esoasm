@@ -14,6 +14,10 @@ List of awesome esoteric code generators.
 
 ## High level languages
 
+### Esoteric Haskell compilers
+* [hs2bf](https://www.xanxys.net/hs2bf/) - hs2bf is a haskell to brainfuck compiler.
+* [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
+
 ### Esoteric C compilers
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
