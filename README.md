@@ -4,9 +4,9 @@ List of awesome esoteric code generators.
 ## Contents
 * [Assemblers](#assemblers)
 * [High level Language](high-level-languages)
-  * [Esoteric Lisp](#esoteric-lisp)
   * [Esoteric C compilers](#esoteric-c-compilers)
   * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
+  * [Esoteric scheme compilers](#esoteric-scheme-compilers)
   * [Other languages](#other-languages)
 
 ## Assemblers
@@ -28,13 +28,6 @@ List of awesome esoteric code generators.
 
 ## High level languages
 
-### Esoteric Lisp
-* [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
-* [bflisp](https://github.com/shinh/bflisp) - Lisp interpreter in Brainfuck
-* [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
-* [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - Scheme to Befunge compiler
-* [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
-
 ### Esoteric C compilers
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 * [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
@@ -43,7 +36,16 @@ List of awesome esoteric code generators.
  * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
  * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
 
+### Esoteric Scheme compilers
+* [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
+* [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
+
 ### Other languages
  * [HaPyLi](https://github.com/wspace/cybis-hapyli) - The HaPyLi Programming Language - Lisp-like language
+
+## Lisp interpreters written in esoteric language
+* [BefLisp](https://github.com/shinh/beflisp) - Lisp implementation in Befunge
+* [bflisp](https://github.com/shinh/bflisp) - Lisp interpreter in Brainfuck
+* [MalbolgeLISP v1.2](https://github.com/kspalaiologos/malbolge-lisp) - Lisp interpreter in Malbolge Unshackled, often dubbed the hardest turing complete programming language.
 
 
