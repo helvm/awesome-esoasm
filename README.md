@@ -3,7 +3,7 @@ List of awesome esoteric code generators.
 
 ## Contents
 * [Assemblers](#assemblers)
-* High level Language
+* [High level Language](high-level-languages)
   * [Esoteric Lisp](#esoteric-lisp)
   * [Esoteric C compilers](#esoteric-c-compilers)
   * [Esoteric Pascal compilers](#esoteric-pascal-compilers)
