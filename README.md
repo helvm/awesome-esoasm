@@ -18,10 +18,6 @@ List of awesome esoteric code generators.
 * [hs2bf](https://www.xanxys.net/hs2bf/) - hs2bf is a haskell to brainfuck compiler.
 * [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
 
-### Esoteric Pascal compilers
- * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
- * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
-
 ### Esoteric Scheme compilers
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
@@ -31,6 +27,11 @@ List of awesome esoteric code generators.
 * [ELVM](https://github.com/shinh/elvm/) - EsoLangVM Compiler Infrastructure
 * [HSQ](http://mazonka.com/subleq/hsq.html) - Compiler into Sublec language
 * [Piet Compiler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - C-like high level language
+* [whitespace_compiler](https://github.com/malkiewiczm/whitespace_compiler) - A compiler (or a transpiler) from a C like language to whitespace
+
+### Esoteric Pascal compilers
+ * [npiet's foogol](http://www.bertnase.de/npiet/npiet-foogol.html) - npiet's foogol to piet translator
+ * [BefunGen](https://www.mikescher.de/programs/view/BefunUtils) - A Befunge compiler / code generator, compiles to Befunge code from a pascal-like language
 
 ### Other languages
 * [BFBASIC](https://esolangs.org/wiki/BFBASIC) - BFBASIC is a Basic to Brainfuck compiler
