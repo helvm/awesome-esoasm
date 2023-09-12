@@ -26,7 +26,7 @@ List of awesome esoteric code generators.
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
-### Other functional compiler
+### Other functional languages
 * Joy
 * Lazier
 * LambdaCraft
