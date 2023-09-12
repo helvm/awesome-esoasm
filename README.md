@@ -2,18 +2,18 @@
 List of awesome esoteric code generators.
 
 ## Contents
-* [High level functional-languages](high-level-functional-languages)
+* [High level functional languages](#high-level-functional-languages)
   * [Esoteric Haskell compilers](#esoteric-haskell-compilers)
   * [Esoteric Scheme compilers](#esoteric-scheme-compilers)
   * [Other functional languages](#other-functional-languages)
 * [High level imperative languages](#high-level-imperative-languages)
   * [Esoteric Subset C compilers](#esoteric-subset-c-compilers)
   * [Esoteric C-like compilers](#esoteric-c-like-compilers)
-  * [Other languages](#other-languages)
+  * [Other imperative languages](#other-imperative-languages)
 * [Esoteric Assemblers](#esoteric-assemblers)
-  * [Macro Assemblers](macro-assemblers) 
-  * [Other Assemblers](other-assemblers) 
-* [Lisp interpreters](lisp-interpreters) 
+  * [Macro Assemblers](#macro-assemblers) 
+  * [Other Assemblers](#other-assemblers) 
+* [Lisp interpreters](#lisp-interpreters) 
 
 ## High level functional languages
 
