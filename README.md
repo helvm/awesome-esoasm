@@ -57,15 +57,15 @@ List of awesome esoteric code generators.
 ## Esoteric Assemblers
 
 ### Esoteric Macro Assemblers
-* [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
-* [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
+* [BitBitJump](https://github.com/esovm/BitBitJump)
 * [FlipJump](https://github.com/tomhea/flip-jump) - Assembler language for FlipJump
+* [Piet Assembler](https://www.toothycat.net/wiki/wiki.pl?MoonShadow/Piet) - assembler for Piet
+* [sblasm](https://github.com/lawrencewoodman/sblasm) - A SUBLEQ macro assembler
 
 ### Other Esoteric Assemblers
 * [asm2BF](https://github.com/kspalaiologos/asmbf) - The only true brainfuck-targetting assembler.
 * [asm2WS](https://github.com/kspalaiologos/asm2ws) - alpha-grade whitespace toolchain
 * [BFFuck](https://esolangs.org/wiki/BFFuck) - BFFuck is a high-level language that compiles to brainfuck
-* [BitBitJump](https://github.com/esovm/BitBitJump)
 * [EAS](http://www.miketaylor.org.uk/tech/eta/doc/easman.html) - The ETA Assembler
 * [eigenratios](http://eigenratios.blogspot.com/2006/09/mark-ii-oisc-self-interpreter.html) - Assembler language for SubLeq
 * [FuckBrainFuck](https://github.com/esovm/FuckBrainFuck) - Assembler language for BrainFuck
