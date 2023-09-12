@@ -2,9 +2,11 @@
 List of awesome esoteric code generators.
 
 ## Contents
-* [High level Language](high-level-languages)
+* [High level functional-languages](high-level-functional-languages)
   * [Esoteric Haskell compilers](#esoteric-haskell-compilers)
   * [Esoteric Scheme compilers](#esoteric-scheme-compilers)
+  * [Other functional languages](#other-functional-languages)
+* [High level imperative languages](#high-level-imperative-languages)
   * [Esoteric Subset C compilers](#esoteric-subset-c-compilers)
   * [Esoteric C-like compilers](#esoteric-c-like-compilers)
   * [Other languages](#other-languages)
@@ -13,20 +15,23 @@ List of awesome esoteric code generators.
   * [Other Assemblers](other-assemblers) 
 * [Lisp interpreters](lisp-interpreters) 
 
-## High level languages
+## High level functional languages
 
 ### Esoteric Haskell compilers
 * [hs2bf](https://www.xanxys.net/hs2bf/) - a Haskell to BrainFuck compiler.
 * [hs2lazy](https://github.com/irori/hs2lazy) - Haskell to Lazy K compiler
-* [](https://crypto.stanford.edu/~blynn/compiler/) - Haskell to combinators compiler
+* [Compiler](https://crypto.stanford.edu/~blynn/compiler/) - Haskell to combinators compiler
 
 ### Esoteric Scheme compilers
 * [Sponge](http://cubonegro.orgfree.com/sponge/sponge.html) - A Scheme to Befunge compiler
 * [UnlambdaScheme](https://github.com/schani/unlambdascheme) - A Scheme to Unlambda compiler
 
 ### Other functional compiler
+* Joy
 * Lazier
 * LambdaCraft
+
+## High level imperative languages
 
 ### Esoteric Subset C compilers
 * [C2WS](https://github.com/matsud224/c2ws) - C(subset) -> Whitespace(esolang)
